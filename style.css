@@ -1,0 +1,29 @@
+body {
+
+  background-color: lightblue;
+}
+
+.maroonStyle {
+  color : maroon;
+}
+
+.large {
+  font-size: 20px;
+}
+
+.center {
+  align: center;
+}
+
+nav li {
+  width: 200px;
+  display: inline;
+  margin : 10px;
+  position: relative;
+  top: -20px;
+  font-size: 25px;
+  padding: 10px;
+}
+nav {
+  text-align: center;
+}
